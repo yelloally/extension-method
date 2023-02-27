@@ -1,0 +1,15 @@
+/Users/yellobunny/Projects/c_sharp/extension_method/obj/Debug/net7.0/extension_method.csproj.AssemblyReference.cache
+/Users/yellobunny/Projects/c_sharp/extension_method/obj/Debug/net7.0/extension_method.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yellobunny/Projects/c_sharp/extension_method/obj/Debug/net7.0/extension_method.AssemblyInfoInputs.cache
+/Users/yellobunny/Projects/c_sharp/extension_method/obj/Debug/net7.0/extension_method.AssemblyInfo.cs
+/Users/yellobunny/Projects/c_sharp/extension_method/obj/Debug/net7.0/extension_method.csproj.CoreCompileInputs.cache
+/Users/yellobunny/Projects/c_sharp/extension_method/bin/Debug/net7.0/extension_method
+/Users/yellobunny/Projects/c_sharp/extension_method/bin/Debug/net7.0/extension_method.deps.json
+/Users/yellobunny/Projects/c_sharp/extension_method/bin/Debug/net7.0/extension_method.runtimeconfig.json
+/Users/yellobunny/Projects/c_sharp/extension_method/bin/Debug/net7.0/extension_method.dll
+/Users/yellobunny/Projects/c_sharp/extension_method/bin/Debug/net7.0/extension_method.pdb
+/Users/yellobunny/Projects/c_sharp/extension_method/obj/Debug/net7.0/extension_method.dll
+/Users/yellobunny/Projects/c_sharp/extension_method/obj/Debug/net7.0/refint/extension_method.dll
+/Users/yellobunny/Projects/c_sharp/extension_method/obj/Debug/net7.0/extension_method.pdb
+/Users/yellobunny/Projects/c_sharp/extension_method/obj/Debug/net7.0/extension_method.genruntimeconfig.cache
+/Users/yellobunny/Projects/c_sharp/extension_method/obj/Debug/net7.0/ref/extension_method.dll
